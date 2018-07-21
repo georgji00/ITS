@@ -1,0 +1,57 @@
+.col-md-2{
+  background-color: #b8b8b8;
+  height: 500px;
+  margin:-20px 0px 0px 15px;
+  text-align: center;
+  font-size: 15px;
+  padding: 6px;
+
+}
+
+
+
+.col-md-2 li a{
+  margin:0px;
+  color: #333;
+
+}
+.nav.nav-stacked .active a{
+  background-color:#3B88CE;
+}
+.navbar-collapse .navbar-nav .active a{
+  background-color: #3B5CA0;
+}
+.navbar-inverse{
+  background-color: #4267B2;
+  padding: 10px;
+  font-size: 19px;
+  border-radius: none;
+
+}
+.navbar-inverse li:hover{
+  background-color:#3B5CA0;
+}
+.navbar-inverse li a:active{
+  background-color:#3B5CA0;
+}
+
+
+.navbar-inverse .nav li a{
+  padding: 16px;
+  color: #fff;
+
+}
+.navbar-inverse .navbar-brand{
+    color: #fff;
+    padding: 16px;
+
+}
+.item img{
+  width: 100%;
+  height: 50px;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #3B5CA0;
+}
